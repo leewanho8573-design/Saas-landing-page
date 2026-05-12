@@ -47,7 +47,7 @@ function App() {
       {/* Hero Section */}
       <header className="hero container">
         <h1 className="hero-title">
-          AI와 함께 더 빠르게 더 잘 쓰세요
+          완호AI와 함께 더 빠르게 더 잘 쓰세요
         </h1>
         <p className="hero-subtitle">
           당신의 아이디어를 완벽한 문장으로 바꿔드립니다. 직관적인 AI 보조와 함께 당신의 글쓰기 잠재력을 발견해보세요.
